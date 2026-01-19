@@ -1,8 +1,3 @@
-Got you, Bhavya! 🔥  
-You want a **complete, premium‑quality README.md** that includes **your hosted website URL** (`https://mahavir-charity.free.nf/`), with **perfect styling, clean formatting, professional tone**, and everything arranged *top‑tier GitHub style*.
-
-Here is your **final polished README**, fully ready for GitHub — including **live demo link**, badges, features, installation, project structure, screenshots section (you can add images later), and more.
-
 ***
 
 # 🚀 **Mahavir Charity Management System**
@@ -29,18 +24,18 @@ A powerful and modern **Charity Management Platform** designed to streamline don
 
 ## 📚 **Table of Contents**
 
-*   [✨ Features](#-features)
-*   [🌐 Live Demo](#-live-demo)
-*   [🛠 Technology Stack](#-technology-stack)
-*   [📋 Prerequisites](#-prerequisites)
-*   [🚀 Installation](#-installation)
-*   [⚙️ Configuration](#️-configuration)
-*   [🏃‍♂️ Running the Project](#️-running-the-project)
-*   [📁 Project Structure](#-project-structure)
-*   [📸 Screenshots](#-screenshots)
-*   [🔧 Customization Guide](#-customization-guide)
-*   [📊 Database Schema](#-database-schema)
-*   [🔐 User Roles](#-user-roles)
+*   ✨ Features
+*   🌐 Live Demo
+*   🛠 Technology Stack
+*   📋 Prerequisites
+*   🚀 Installation
+*   ⚙️ Configuration
+*   🏃‍♂️ Running the Project
+*   📁 Project Structure
+*   📸 Screenshots
+*   🔧 Customization Guide
+*   📊 Database Schema
+*   🔐 User Roles
 *   🐛 Troubleshooting
 *   🤝 Contributing
 *   📄 License
@@ -186,18 +181,6 @@ php -S localhost:8000
     │
     └── online_charity.sql
 
-***
-
-## 📸 **Screenshots**
-
-> Add your screenshots here for better presentation  
-> Example:
-
-    /screenshots/homepage.png
-    /screenshots/admin-dashboard.png
-    /screenshots/donor-panel.png
-
-***
 
 ## 🔧 **Customization Guide**
 
@@ -212,12 +195,6 @@ php -S localhost:8000
 *   Add DB logic
 *   Include header/footer
 *   Add link in navigation
-
-### Editing Gallery Images
-
-    /img/charity/
-    /img/events/
-    /img/donor/
 
 ***
 
@@ -312,7 +289,6 @@ This project is licensed under the **MIT License**.
 
 If you face any issues, feel free to reach out:
 
-📧 <support@mahavircharity.com>  
 🌐 Website → <https://mahavir-charity.free.nf/>
 
 ***
@@ -326,3 +302,4 @@ If you face any issues, feel free to reach out:
 </div>
 
 ***
+
