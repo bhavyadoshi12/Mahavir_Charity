@@ -1,369 +1,328 @@
-# 🚀 Mahavir Charity Management System
+Got you, Bhavya! 🔥  
+You want a **complete, premium‑quality README.md** that includes **your hosted website URL** (`https://mahavir-charity.free.nf/`), with **perfect styling, clean formatting, professional tone**, and everything arranged *top‑tier GitHub style*.
 
-[![PHP](https://img.shields.io/badge/PHP-8.2.4-blue.svg)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-10.4.28-orange.svg)](https://www.mysql.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.x-purple.svg)](https://getbootstrap.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+Here is your **final polished README**, fully ready for GitHub — including **live demo link**, badges, features, installation, project structure, screenshots section (you can add images later), and more.
 
-A comprehensive web-based charity management system built with PHP and MySQL, designed to streamline charitable operations including donor management, member administration, fundraising, and event coordination.
+***
 
-## 📋 Table of Contents
+# 🚀 **Mahavir Charity Management System**
 
-- [✨ Features](#-features)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [📋 Prerequisites](#-prerequisites)
-- [🚀 Installation & Setup](#-installation--setup)
-- [⚙️ Configuration](#️-configuration)
-- [🏃‍♂️ How to Run](#️-how-to-run)
-- [📁 Project Structure](#-project-structure)
-- [🔧 Customization Guide](#-customization-guide)
-- [📊 Database Schema](#-database-schema)
-- [🔐 User Roles & Permissions](#-user-roles--permissions)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+A powerful and modern **Charity Management Platform** designed to streamline donation handling, fundraising, event management, food donation, child adoption workflows, and complete staff/donor administration — built using **PHP**, **MySQL**, and **Bootstrap**.
 
-## ✨ Features
+***
 
-### 🎯 Core Functionality
-- **Donor Management**: Registration, login, profile management, donation tracking
-- **Member Administration**: Member types, detailed profiles, photo management
-- **Staff Management**: Staff accounts, role-based access, profile updates
-- **Fundraising**: Create and manage fundraising campaigns, track collections
-- **Event Management**: Photo albums, event galleries, appointment scheduling
-- **Food Donation**: Track food donations and donors
-- **Child Adoption**: Adoption applications and management
+<div align="center">
 
-### 🎨 User Interface
-- **Responsive Design**: Mobile-friendly Bootstrap interface
-- **Interactive Elements**: Owl Carousel sliders, DataTables for listings
-- **Image Galleries**: Photo management with organized albums
-- **Dashboard Views**: Role-specific dashboards for different user types
+### 🌐 **Live Demo**
 
-### 🔒 Security Features
-- **Session Management**: Secure user authentication
-- **Role-Based Access**: Different permissions for donors, staff, and admins
-- **Input Validation**: Form validation and error handling
+🔗 **<https://mahavir-charity.free.nf/>**
 
-## 🛠️ Technology Stack
+![PHP](https://img.shields.io/badge/PHP-8.2.4-777BB4?style=for-the-badge\&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-10.4.28-005C84?style=for-the-badge\&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4.x-7952B3?style=for-the-badge\&logo=bootstrap)
+!Status
+![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
 
-| Component | Technology | Version |
-|-----------|------------|---------|
-| **Backend** | PHP | 8.2.4 |
-| **Database** | MySQL | 10.4.28 |
-| **Frontend** | HTML5, CSS3, JavaScript | ES6+ |
-| **CSS Framework** | Bootstrap | 4.x |
-| **JavaScript Libraries** | jQuery, Owl Carousel, DataTables | Latest |
-| **Server** | Apache (XAMPP) | 2.4.x |
-| **Icons** | Font Awesome | 4.x |
+</div>
 
-## 📋 Prerequisites
+***
 
-Before running this project, ensure you have the following installed:
+## 📚 **Table of Contents**
 
-### 🖥️ System Requirements
-- **Operating System**: Windows 10/11, macOS, or Linux
-- **RAM**: Minimum 4GB (8GB recommended)
-- **Disk Space**: 500MB free space
-- **Web Browser**: Chrome, Firefox, Safari, or Edge (latest versions)
+*   [✨ Features](#-features)
+*   [🌐 Live Demo](#-live-demo)
+*   [🛠 Technology Stack](#-technology-stack)
+*   [📋 Prerequisites](#-prerequisites)
+*   [🚀 Installation](#-installation)
+*   [⚙️ Configuration](#️-configuration)
+*   [🏃‍♂️ Running the Project](#️-running-the-project)
+*   [📁 Project Structure](#-project-structure)
+*   [📸 Screenshots](#-screenshots)
+*   [🔧 Customization Guide](#-customization-guide)
+*   [📊 Database Schema](#-database-schema)
+*   [🔐 User Roles](#-user-roles)
+*   🐛 Troubleshooting
+*   🤝 Contributing
+*   📄 License
+*   📞 Support
 
-### 📦 Required Software
-- **XAMPP** (Windows/Mac) or **LAMP** (Linux)
-  - Apache Web Server
-  - MySQL Database Server
-  - PHP 8.2.4 or higher
-  - phpMyAdmin (optional, for database management)
+***
 
-### 🔧 Development Tools (Optional)
-- **VS Code** or any PHP-compatible IDE
-- **Git** for version control
-- **Composer** for PHP dependency management
+## ✨ **Features**
 
-## 🚀 Installation & Setup
+### 🎯 Core Modules
 
-### Step 1: Download and Install XAMPP
-1. Visit [Apache Friends](https://www.apachefriends.org/) and download XAMPP for your OS
-2. Install XAMPP in the default directory (`C:\xampp` on Windows)
-3. Start XAMPP Control Panel and start **Apache** and **MySQL** services
+*   ✔ Donor registration, login & history tracking
+*   ✔ Member management (types, profiles, photos)
+*   ✔ Staff panel with role management
+*   ✔ Fundraising campaigns & fund collections
+*   ✔ Event photo albums & gallery system
+*   ✔ Food donation management
+*   ✔ Child adoption request system
+*   ✔ Appointments & scheduling system
 
-### Step 2: Clone or Download the Project
+### 🎨 UI Features
+
+*   Responsive Bootstrap UI
+*   Carousels & galleries
+*   DataTables for listing
+*   Different dashboards for admin/staff/donor
+
+### 🔐 Security
+
+*   Role-based access (Admin/Staff/Donor)
+*   Session authentication
+*   Safe form handling
+
+***
+
+## 🌐 **Live Demo**
+
+🔗 Visit the deployed website:
+
+### 👉 <https://mahavir-charity.free.nf/>
+
+Hosted using **InfinityFree** (Free Hosting + MySQL + PHP 8 Support).
+
+***
+
+## 🛠 **Technology Stack**
+
+| Layer     | Tech            | Version      |
+| --------- | --------------- | ------------ |
+| Backend   | PHP             | 8.2.4        |
+| Database  | MySQL           | 10.4.28      |
+| Frontend  | HTML5, CSS3, JS | ES6          |
+| Framework | Bootstrap       | 4.x          |
+| Server    | Apache          | XAMPP        |
+| Hosting   | InfinityFree    | Free Hosting |
+
+***
+
+## 📋 **Prerequisites**
+
+*   XAMPP / LAMP / WAMP
+*   Apache + MySQL running
+*   PHP 8.2+
+*   phpMyAdmin
+
+***
+
+## 🚀 **Installation Steps**
+
+### 1️⃣ Clone Project
+
 ```bash
-# If using Git
 git clone https://github.com/your-repo/mahavir-charity.git
-
-# Or download ZIP and extract to:
-# Windows: C:\xampp\htdocs\
-# macOS/Linux: /Applications/XAMPP/htdocs/ or /opt/lampp/htdocs/
 ```
 
-### Step 3: Database Setup
-1. Open your browser and go to `http://localhost/phpmyadmin`
-2. Create a new database named `online_charity`
-3. Import the SQL file:
-   - Click on `online_charity` database
-   - Go to **Import** tab
-   - Choose file: `online_charity.sql`
-   - Click **Go**
+### 2️⃣ Move to Server Root
 
-### Step 4: Configure Database Connection
-The database connection is already configured in `databaseconnection.php`:
+*   Windows: `C:/xampp/htdocs/`
+*   macOS/Linux: `/opt/lampp/htdocs/`
+
+### 3️⃣ Import SQL Database
+
+1.  Open phpMyAdmin
+2.  Create DB → `online_charity`
+3.  Import → `online_charity.sql`
+
+### 4️⃣ Configure DB Connection
+
+`databaseconnection.php`
 
 ```php
-<?php
-session_start();
-// Create connection
 $con = mysqli_connect("localhost", "root", "", "online_charity");
-echo mysqli_connect_error();
-?>
 ```
 
-**Note**: This uses default XAMPP credentials. For production, update with secure credentials.
+***
 
-## ⚙️ Configuration
+## ⚙️ **Configuration**
 
-### Database Configuration
-Edit `databaseconnection.php` to match your database settings:
+### Timezone
 
 ```php
-$con = mysqli_connect("YOUR_HOST", "YOUR_USERNAME", "YOUR_PASSWORD", "YOUR_DATABASE");
+date_default_timezone_set("Asia/Calcutta");
 ```
 
-### Time Zone Configuration
-Located in `header.php`:
+### Currency Format
+
 ```php
-date_default_timezone_set("Asia/Calcutta"); // Change to your timezone
+$rupeesymbol = "₹";
 ```
 
-### Currency Symbol
-Also in `header.php`:
-```php
-$rupeesymbol = "₹"; // Change to your currency symbol
-```
+***
 
-## 🏃‍♂️ How to Run
+## 🏃‍♂️ Running the Project
 
-### Method 1: Using XAMPP (Recommended)
-1. **Start Services**:
-   - Open XAMPP Control Panel
-   - Start **Apache** (🟢)
-   - Start **MySQL** (🟢)
+### ✔ XAMPP (Recommended)
 
-2. **Access the Application**:
-   - Open browser
-   - Navigate to: `http://localhost/mahavir_charity/`
-   - Or: `http://localhost/mahavir_charity/index.php`
+Start Apache + MySQL  
+Visit:
 
-### Method 2: Using Built-in PHP Server (Development Only)
+    http://localhost/mahavir_charity/
+
+### ✔ PHP Development Server
+
 ```bash
-cd C:\xampp\htdocs\mahavir_charity
 php -S localhost:8000
 ```
-Then visit: `http://localhost:8000`
 
-### Method 3: Using Apache Virtual Host
-Add to `C:\xampp\apache\conf\extra\httpd-vhosts.conf`:
-```apache
-<VirtualHost *:80>
-    DocumentRoot "C:/xampp/htdocs/mahavir_charity"
-    ServerName mahavir-charity.local
-    <Directory "C:/xampp/htdocs/mahavir_charity">
-        AllowOverride All
-        Require all granted
-    </Directory>
-</VirtualHost>
-```
+***
 
-## 📁 Project Structure
+## 📁 **Project Structure**
 
-```
-mahavir_charity/
-├── 📄 PHP Files (Core Logic)
-│   ├── index.php                 # 🏠 Homepage
-│   ├── header.php                # 🔝 Header & Navigation
-│   ├── footer.php                # 🔻 Footer
-│   ├── databaseconnection.php    # 🗄️ Database Connection
-│   ├── common.class.php          # 🛠️ Common Functions Class
-│   └── [Other PHP files...]      # Various pages & functionalities
-│
-├── 🎨 Assets
-│   ├── css/                      # 🎨 Stylesheets
-│   │   ├── bootstrap.min.css
-│   │   ├── style.css
-│   │   └── ...
-│   ├── js/                       # 📜 JavaScript Files
-│   │   ├── jquery-3.3.1.js
-│   │   ├── bootstrap.min.js
-│   │   └── ...
-│   ├── img/                      # 🖼️ Images
-│   │   ├── charity/
-│   │   ├── imgdonor/
-│   │   └── ...
-│   └── fonts/                    # 🔤 Font Files
-│
-├── 📊 Database
-│   └── online_charity.sql        # 🗃️ Database Schema & Data
-│
-└── 📖 Documentation
-    └── README.md                 # 📚 This file
-```
+    mahavir_charity/
+    ├── index.php
+    ├── header.php
+    ├── footer.php
+    ├── databaseconnection.php
+    ├── common.class.php
+    │
+    ├── css/
+    ├── js/
+    ├── img/
+    ├── fonts/
+    │
+    └── online_charity.sql
 
-## 🔧 Customization Guide
+***
 
-### 🎨 Changing Theme & Styling
-1. **Main Styles**: Edit `css/style.css`
-2. **Bootstrap Theme**: Replace `css/bootstrap.min.css` with custom theme
-3. **Colors & Fonts**: Modify CSS variables in `style.css`
+## 📸 **Screenshots**
 
-### 🖼️ Adding Images
-- **Charity Images**: Place in `img/charity/`
-- **User Photos**: Upload via admin panel (stored in respective folders)
-- **Image Optimization**: Use WebP format for better performance
+> Add your screenshots here for better presentation  
+> Example:
 
-### 🌐 Adding New Pages
-1. Create new `.php` file
-2. Include `header.php` and `footer.php`
-3. Add database logic as needed
-4. Update navigation in `header.php`
+    /screenshots/homepage.png
+    /screenshots/admin-dashboard.png
+    /screenshots/donor-panel.png
 
-### 👥 Adding New User Roles
-1. Add new table to database
-2. Create role-specific PHP files
-3. Update authentication logic in `header.php`
-4. Add navigation items
+***
 
-### 📧 Email Configuration
-Currently uses basic PHP mail. For production:
-1. Install PHPMailer: `composer require phpmailer/phpmailer`
-2. Configure SMTP settings
-3. Update mail functions
+## 🔧 **Customization Guide**
 
-## 📊 Database Schema
+### Editing UI Theme
 
-### Core Tables
-- **`donor`** - Donor information and authentication
-- **`member`** - Charity members with types
-- **`staff`** - Staff accounts and profiles
-- **`album`** - Photo albums for events
-- **`fundraiser`** - Fundraising campaigns
-- **`fundcollection`** - Donation tracking
-- **`appointment`** - Scheduled appointments
+    /css/style.css
+    /css/bootstrap.min.css
 
-### Relationships
-- Members can have multiple photos
-- Donors can make multiple donations
-- Staff manage various aspects
-- Albums contain multiple photos
+### Adding New Modules
 
-## 🔐 User Roles & Permissions
+*   Create new `.php` file
+*   Add DB logic
+*   Include header/footer
+*   Add link in navigation
+
+### Editing Gallery Images
+
+    /img/charity/
+    /img/events/
+    /img/donor/
+
+***
+
+## 📊 **Database Schema Overview**
+
+**Main Tables:**
+
+*   donor
+*   staff
+*   member
+*   fundraiser
+*   fundcollection
+*   album
+*   appointment
+*   adoption
+*   fooddonation
+
+Supports many-to-one and one-to-many relationships.
+
+***
+
+## 🔐 **User Roles & Permissions**
 
 ### 👤 Donor
-- Register and login
-- View profile and donation history
-- Make donations
-- Update contact information
+
+*   View profile
+*   Donate
+*   View donation history
 
 ### 👨‍💼 Staff
-- All donor permissions
-- Manage members and donors
-- Create and manage events
-- Handle fundraising campaigns
-- View detailed reports
 
-### 👑 Administrator
-- All staff permissions
-- System configuration
-- User management
-- Database maintenance
+*   Manage donors/members
+*   Manage campaigns
+*   Upload gallery images
 
-## 🐛 Troubleshooting
+### 👑 Admin
 
-### Common Issues & Solutions
+*   Full CRUD on all modules
+*   Add staff
+*   Configure system
 
-#### ❌ Database Connection Error
-```
-Solution: Check MySQL service is running in XAMPP
-Verify database name in databaseconnection.php
-Ensure SQL file is imported correctly
-```
+***
 
-#### ❌ Page Not Loading
-```
-Solution: Check Apache service is running
-Verify file permissions (755 for directories, 644 for files)
-Check PHP error logs in XAMPP control panel
-```
+## 🐛 **Troubleshooting Guide**
 
-#### ❌ Images Not Displaying
-```
-Solution: Check image file paths
-Verify folder permissions
-Ensure images are in correct directories
-```
+### ❌ Database Connection Error
 
-#### ❌ Form Submissions Not Working
-```
-Solution: Check PHP error reporting
-Verify database connection
-Ensure form action URLs are correct
-```
+✔ MySQL running?  
+✔ DB imported?  
+✔ Correct credentials?
 
-#### ❌ JavaScript Errors
-```
-Solution: Check browser console for errors
-Verify jQuery and other libraries are loaded
-Check for conflicting scripts
-```
+### ❌ Images Missing
 
-### Debug Mode
-Enable debugging by modifying `header.php`:
+✔ Correct folder path?  
+✔ Uploaded to hosting?
+
+### ❌ “500 Server Error” on Hosting
+
+✔ PHP version supported  
+✔ No incorrect `.htaccess` rules
+
+### Enable Developer Debug Mode
+
 ```php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ```
 
-### Logs Location
-- **Apache Logs**: `C:\xampp\apache\logs\`
-- **PHP Logs**: `C:\xampp\php\logs\`
-- **MySQL Logs**: `C:\xampp\mysql\data\`
+***
 
-## 🤝 Contributing
+## 🤝 **Contributing**
 
-We welcome contributions! Please follow these steps:
+1.  Fork this repo
+2.  Create branch:
 
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature-name`
-3. **Commit** changes: `git commit -m 'Add feature'`
-4. **Push** to branch: `git push origin feature-name`
-5. **Create** a Pull Request
+```bash
+git checkout -b feature-name
+```
 
-### Development Guidelines
-- Follow PHP PSR standards
-- Use meaningful variable names
-- Add comments for complex logic
-- Test thoroughly before submitting
+3.  Commit & push
+4.  Create Pull Request
 
-## 📄 License
+***
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📄 **License**
 
-## 📞 Support
+This project is licensed under the **MIT License**.
 
-For support and questions:
-- 📧 Email: support@mahavircharity.com
-- 📱 Phone: +91-XXXXXXXXXX
-- 🏢 Address: [Your Charity Address]
+***
 
-## 🙏 Acknowledgments
+## 📞 **Support**
 
-- **Bootstrap Team** for the amazing CSS framework
-- **jQuery Team** for the JavaScript library
-- **Owl Carousel** for the image slider
-- **DataTables** for table functionality
-- **Font Awesome** for icons
+If you face any issues, feel free to reach out:
 
----
+📧 <support@mahavircharity.com>  
+🌐 Website → <https://mahavir-charity.free.nf/>
 
-**Made with ❤️ for Mahavir Charity**
+***
 
-*Helping communities, changing lives, one donation at a time.*#   M a h a v i r _ C h a r i t y  
- 
+<div align="center">
+
+### ❤️ *Made with love for Mahavir Charity*
+
+### ✨ Helping people. Changing lives.
+
+</div>
+
+***
