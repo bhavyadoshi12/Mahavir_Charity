@@ -1,305 +1,216 @@
-***
+# 🚀 Mahavir Charity Management System
 
-# 🚀 **Mahavir Charity Management System**
+<p align="center">
+  <img src="Banner.png" alt="Mahavir Charity Management System Banner" />
+</p>
 
-A powerful and modern **Charity Management Platform** designed to streamline donation handling, fundraising, event management, food donation, child adoption workflows, and complete staff/donor administration — built using **PHP**, **MySQL**, and **Bootstrap**.
+<p align="center">
+  <b>A Modern Charity Management Platform built with PHP, MySQL & Bootstrap</b>
+</p>
 
-***
+<p align="center">
+  <a href="https://mahavir-charity.free.nf/" target="_blank"><b>🌐 Live Demo</b></a>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2.4-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-10.4.28-005C84?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Bootstrap-4.x-7952B3?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
 
-### 🌐 **Live Demo**
+---
 
-🔗 **<https://mahavir-charity.free.nf/>**
+## 🎮 Overview
 
-![PHP](https://img.shields.io/badge/PHP-8.2.4-777BB4?style=for-the-badge\&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-10.4.28-005C84?style=for-the-badge\&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4.x-7952B3?style=for-the-badge\&logo=bootstrap)
-!Status
-![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
+**Mahavir Charity Management System** is a complete web-based solution designed to manage charity operations efficiently — including donations, fundraising campaigns, food donation workflows, child adoption processes, event galleries, appointments, and staff/donor administration.
 
-</div>
+Built using **PHP**, **MySQL**, and **Bootstrap**, the system is optimized for real-world deployment and role-based access control.
 
-***
+---
 
-## 📚 **Table of Contents**
-
-*   ✨ Features
-*   🌐 Live Demo
-*   🛠 Technology Stack
-*   📋 Prerequisites
-*   🚀 Installation
-*   ⚙️ Configuration
-*   🏃‍♂️ Running the Project
-*   📁 Project Structure
-*   📸 Screenshots
-*   🔧 Customization Guide
-*   📊 Database Schema
-*   🔐 User Roles
-*   🐛 Troubleshooting
-*   🤝 Contributing
-*   📄 License
-*   📞 Support
-
-***
-
-## ✨ **Features**
+## ✨ Features
 
 ### 🎯 Core Modules
+- ✔ Donor registration, login & donation history  
+- ✔ Member & orphan management  
+- ✔ Staff management with role-based access  
+- ✔ Fundraising campaigns & fund collection tracking  
+- ✔ Food donation management  
+- ✔ Child adoption request handling  
+- ✔ Appointment scheduling system  
+- ✔ Event gallery & photo albums  
 
-*   ✔ Donor registration, login & history tracking
-*   ✔ Member management (types, profiles, photos)
-*   ✔ Staff panel with role management
-*   ✔ Fundraising campaigns & fund collections
-*   ✔ Event photo albums & gallery system
-*   ✔ Food donation management
-*   ✔ Child adoption request system
-*   ✔ Appointments & scheduling system
-
-### 🎨 UI Features
-
-*   Responsive Bootstrap UI
-*   Carousels & galleries
-*   DataTables for listing
-*   Different dashboards for admin/staff/donor
+### 🎨 UI & UX
+- Responsive Bootstrap design  
+- Interactive carousels & galleries  
+- DataTables for listings  
+- Separate dashboards for Admin, Staff & Donor  
 
 ### 🔐 Security
+- Role-based authentication (Admin / Staff / Donor)  
+- Secure session handling  
+- Safe form validation  
 
-*   Role-based access (Admin/Staff/Donor)
-*   Session authentication
-*   Safe form handling
+---
 
-***
+## 📸 Screenshots & Output Preview
 
-## 🌐 **Live Demo**
+### 🏠 Public Pages
+<p align="center">
+  <img src="Output_Images/01.HomePage01.png" width="200" />
+  <img src="Output_Images/02.AboutPage.png" width="200" />
+  <img src="Output_Images/03.FundRaiser.png" width="200" />
+  <img src="Output_Images/04.CharityMembers.png" width="200" />
+  <img src="Output_Images/05.Gallery.png" width="200" />
+</p>
 
-🔗 Visit the deployed website:
+### 🔐 Donor & Staff Authentication
+<p align="center">
+  <img src="Output_Images/07.DonorRegi.png" width="200" />
+  <img src="Output_Images/08.DonorLogin.png" width="200" />
+  <img src="Output_Images/10.StaffLogin.png" width="200" />
+</p>
 
-### 👉 <https://mahavir-charity.free.nf/>
+### 👨‍💼 Admin & Staff Dashboard
+<p align="center">
+  <img src="Output_Images/11.AdminDashboard.png" width="200" />
+  <img src="Output_Images/12.FundRaiser.png" width="200" />
+  <img src="Output_Images/13.FundRaiserReport.png" width="200" />
+  <img src="Output_Images/14.FundCollection.png" width="200" />
+</p>
 
-Hosted using **InfinityFree** (Free Hosting + MySQL + PHP 8 Support).
+### 📷 Gallery & Albums
+<p align="center">
+  <img src="Output_Images/15.UploadPhoto.png" width="200" />
+  <img src="Output_Images/16.ViewPhoto.png" width="200" />
+  <img src="Output_Images/17.CreateAlbum.png" width="200" />
+  <img src="Output_Images/18.ViewAlbum.png" width="200" />
+</p>
 
-***
+### 👶 Orphan, Donation & Staff Management
+<p align="center">
+  <img src="Output_Images/19.AddMemberOrphan.png" width="200" />
+  <img src="Output_Images/20.ViewMemberOrphan.png" width="200" />
+  <img src="Output_Images/25.ViewFoodDonor.png" width="200" />
+  <img src="Output_Images/26.ChildAdoptionDetail.png" width="200" />
+  <img src="Output_Images/29.AddStaff.png" width="200" />
+  <img src="Output_Images/30.ViewStaff.png" width="200" />
+</p>
 
-## 🛠 **Technology Stack**
+---
 
-| Layer     | Tech            | Version      |
-| --------- | --------------- | ------------ |
-| Backend   | PHP             | 8.2.4        |
-| Database  | MySQL           | 10.4.28      |
-| Frontend  | HTML5, CSS3, JS | ES6          |
-| Framework | Bootstrap       | 4.x          |
-| Server    | Apache          | XAMPP        |
-| Hosting   | InfinityFree    | Free Hosting |
+## 🛠 Technology Stack
 
-***
+| Layer | Technology |
+|------|-----------|
+| Backend | PHP 8.2.4 |
+| Database | MySQL 10.4.28 |
+| Frontend | HTML5, CSS3, JavaScript |
+| UI Framework | Bootstrap 4.x |
+| Server | Apache (XAMPP) |
+| Hosting | InfinityFree |
 
-## 📋 **Prerequisites**
+---
 
-*   XAMPP / LAMP / WAMP
-*   Apache + MySQL running
-*   PHP 8.2+
-*   phpMyAdmin
+## 🚀 Installation & Setup
 
-***
+### ✅ Prerequisites
+- XAMPP / WAMP / LAMP  
+- PHP 8.2+  
+- MySQL  
+- phpMyAdmin  
 
-## 🚀 **Installation Steps**
-
-### 1️⃣ Clone Project
-
+### 📥 Clone Repository
 ```bash
 git clone https://github.com/your-repo/mahavir-charity.git
-```
+````
 
-### 2️⃣ Move to Server Root
+### 🗄 Database Setup
 
-*   Windows: `C:/xampp/htdocs/`
-*   macOS/Linux: `/opt/lampp/htdocs/`
+1. Open **phpMyAdmin**
+2. Create database: `online_charity`
+3. Import: `online_charity.sql`
 
-### 3️⃣ Import SQL Database
-
-1.  Open phpMyAdmin
-2.  Create DB → `online_charity`
-3.  Import → `online_charity.sql`
-
-### 4️⃣ Configure DB Connection
-
-`databaseconnection.php`
+### ⚙️ Database Configuration
 
 ```php
 $con = mysqli_connect("localhost", "root", "", "online_charity");
 ```
 
-***
+---
 
-## ⚙️ **Configuration**
+## ▶️ Run the Project
 
-### Timezone
+* Start **Apache & MySQL**
+* Visit:
 
-```php
-date_default_timezone_set("Asia/Calcutta");
+```
+http://localhost/mahavir_charity/
 ```
 
-### Currency Format
+---
 
-```php
-$rupeesymbol = "₹";
+## 📁 Project Structure
+
+```
+mahavir_charity/
+│── index.php
+│── header.php
+│── footer.php
+│── databaseconnection.php
+│── css/
+│── js/
+│── img/
+│── online_charity.sql
+│── README.md
 ```
 
-***
+---
 
-## 🏃‍♂️ Running the Project
-
-### ✔ XAMPP (Recommended)
-
-Start Apache + MySQL  
-Visit:
-
-    http://localhost/mahavir_charity/
-
-### ✔ PHP Development Server
-
-```bash
-php -S localhost:8000
-```
-
-***
-
-## 📁 **Project Structure**
-
-    mahavir_charity/
-    ├── index.php
-    ├── header.php
-    ├── footer.php
-    ├── databaseconnection.php
-    ├── common.class.php
-    │
-    ├── css/
-    ├── js/
-    ├── img/
-    ├── fonts/
-    │
-    └── online_charity.sql
-
-
-## 🔧 **Customization Guide**
-
-### Editing UI Theme
-
-    /css/style.css
-    /css/bootstrap.min.css
-
-### Adding New Modules
-
-*   Create new `.php` file
-*   Add DB logic
-*   Include header/footer
-*   Add link in navigation
-
-***
-
-## 📊 **Database Schema Overview**
-
-**Main Tables:**
-
-*   donor
-*   staff
-*   member
-*   fundraiser
-*   fundcollection
-*   album
-*   appointment
-*   adoption
-*   fooddonation
-
-Supports many-to-one and one-to-many relationships.
-
-***
-
-## 🔐 **User Roles & Permissions**
+## 🔐 User Roles
 
 ### 👤 Donor
 
-*   View profile
-*   Donate
-*   View donation history
+* Register & login
+* Donate & track history
 
 ### 👨‍💼 Staff
 
-*   Manage donors/members
-*   Manage campaigns
-*   Upload gallery images
+* Manage members & donors
+* Upload gallery photos
 
 ### 👑 Admin
 
-*   Full CRUD on all modules
-*   Add staff
-*   Configure system
+* Full system control
+* Staff & module management
 
-***
+---
 
-## 🐛 **Troubleshooting Guide**
+## 📝 Notes
 
-### ❌ Database Connection Error
+* 🔒 Never commit database credentials publicly
+* 📱 Fully responsive design
+* 🎯 Ideal for academic & portfolio use
 
-✔ MySQL running?  
-✔ DB imported?  
-✔ Correct credentials?
+---
 
-### ❌ Images Missing
+## 🤝 Contributing
 
-✔ Correct folder path?  
-✔ Uploaded to hosting?
+Fork → Improve → Pull Request
+Contributions are welcome!
 
-### ❌ “500 Server Error” on Hosting
+---
 
-✔ PHP version supported  
-✔ No incorrect `.htaccess` rules
+## 📄 License
 
-### Enable Developer Debug Mode
+Licensed under the **MIT License**
 
-```php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-```
+---
 
-***
 
-## 🤝 **Contributing**
-
-1.  Fork this repo
-2.  Create branch:
-
-```bash
-git checkout -b feature-name
-```
-
-3.  Commit & push
-4.  Create Pull Request
-
-***
-
-## 📄 **License**
-
-This project is licensed under the **MIT License**.
-
-***
-
-## 📞 **Support**
-
-If you face any issues, feel free to reach out:
-
-🌐 Website → <https://mahavir-charity.free.nf/>
-
-***
-
-<div align="center">
-
-### ❤️ *Made with love for Mahavir Charity*
-
-### ✨ Helping people. Changing lives.
-
-</div>
-
-***
-
+<p align="center">
+  ❤️ <b>Made with love for Mahavir Charity</b><br/>
+  ✨ Helping people. Changing lives.
+</p>
